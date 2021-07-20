@@ -29,7 +29,7 @@ git push origin "code review 브랜치 이름"
 
 10. 오른쪽 탭 최상단을 보면 Reviewers라는 탭이 있다. 여기서 Reviewer를 정할 수 있다.
 #Reviewer 추가 process
-- setting 버튼 클릭
+- repository창의 메인 nav 버튼들 중 setting 버튼 클릭
 - Manage access 버튼 클릭
 - 하단에 Invite a collaborator 버튼 클릭
 - Search by username으로 invite 메일을 전송한다.
@@ -41,5 +41,4 @@ git push origin "code review 브랜치 이름"
 12. Review는 pull request에 대해 comment, approve를 선택할 수 있다.
 - comment는 아직 수정할 부분에 대한 내용을 requester에게 전달하는 기능이다.
 - approve는 request에 만족하여 브랜치의 내용을 main에 merge하겠다는 기능이다.
-
 
